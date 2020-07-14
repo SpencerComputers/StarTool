@@ -1,0 +1,15 @@
+# Personal Files
+notes.txt
+todo.txt
+# Intellij files
+.idea
+out
+StarTool.iml
+# OS files 
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.d
